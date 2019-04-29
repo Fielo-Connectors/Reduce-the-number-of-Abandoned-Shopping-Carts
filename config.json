@@ -1,0 +1,19 @@
+{
+	"type":"repository",
+	"version":"master",
+	"category":"Commerce Cloud",
+	"name":"Reduce the number of Abandoned Shopping Carts",
+	"image":"https://drive.google.com/uc?id=1GEMHh-QlQ6YUZoKw831oxQAuz81G9uXo",
+	"description":"Get the Following Boosters: Increase the Number of opportunity, Increase the opportunities won, Your sales will grow rapidly",
+	"featured":"No",
+	"price":"2500",
+	"repo_name":"Reduce-the-number-of-Abandoned-Shopping-Carts",
+	
+	"dependencies":[
+		{
+			"type":"linkRepository",
+			"version":"master",
+			"name":"FieloIncentiveAutomation/fielodeploy"
+		}
+	]
+}
